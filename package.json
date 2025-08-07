@@ -1,0 +1,22 @@
+{
+  "name": "playwright-1st-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidGer2000/playwright-1st-step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidGer2000/playwright-1st-step/issues"
+  },
+  "homepage": "https://github.com/DavidGer2000/playwright-1st-step#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
